@@ -1,4 +1,4 @@
-// store/index.js
+
 export const state = () => ({
     shippingInfo: {
       fullName: '',

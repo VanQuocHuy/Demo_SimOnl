@@ -6,11 +6,10 @@
         <div class="col-md-6 ">
           <img src="/images/footer.svg" class="footer" alt="">
           <hr class="custom-hr">
-          
-          <p>
-            Chúng tôi tin rằng đó là nhiệm vụ của chúng tôi để đảm bảo sức khỏe và hạnh phúc cho thú cưng. Giúp chúng thật sự hiểu rằng chúng đang được yêu thương và an toàn.
-            Chúng tôi tin rằng thú cưng sẽ làm cho con người tốt đẹp hơn. Chúng sẽ làm phong phú thêm cho cuộc sống của chúng ta và xây dựng xã hội văn minh, phát triển.
-          </p>
+            <p>Điện Thoại Chỉ Là Nhất Thời</p>
+            <p>Sim Số Mới Là Đẳng Cấp</p>
+            <p>Không Phải Người thành Đạt Mới Dùng sim Số Đẹp </p>
+            <p>Chính Sim Số Đẹp Đã Giúp Họ Thành Đạt</p>
         </div>
       </div>
     </div>
