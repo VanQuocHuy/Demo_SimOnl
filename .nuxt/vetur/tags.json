@@ -1,0 +1,14 @@
+{
+  "Home": {
+    "description": "Auto imported from components/Home.vue"
+  },
+  "Slider": {
+    "description": "Auto imported from components/Slider.vue"
+  },
+  "IncAppFooter": {
+    "description": "Auto imported from components/inc/AppFooter.vue"
+  },
+  "IncAppHeader": {
+    "description": "Auto imported from components/inc/AppHeader.vue"
+  }
+}

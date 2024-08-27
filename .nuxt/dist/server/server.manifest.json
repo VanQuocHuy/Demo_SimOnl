@@ -1,0 +1,27 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/home.js": "components/home.js",
+    "components/slider.js": "components/slider.js",
+    "pages/buy_now.js": "pages/buy_now.js",
+    "pages/donmua.js": "pages/donmua.js",
+    "pages/giohang.js": "pages/giohang.js",
+    "pages/index.js": "pages/index.js",
+    "pages/simdata.js": "pages/simdata.js",
+    "pages/simsodep.js": "pages/simsodep.js",
+    "pages/support.js": "pages/support.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/home.js": "components/home.js.map",
+    "components/slider.js": "components/slider.js.map",
+    "pages/buy_now.js": "pages/buy_now.js.map",
+    "pages/donmua.js": "pages/donmua.js.map",
+    "pages/giohang.js": "pages/giohang.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/simdata.js": "pages/simdata.js.map",
+    "pages/simsodep.js": "pages/simsodep.js.map",
+    "pages/support.js": "pages/support.js.map",
+    "server.js": "server.js.map"
+  }
+}

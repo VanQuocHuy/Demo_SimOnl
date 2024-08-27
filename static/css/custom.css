@@ -1,0 +1,79 @@
+.bg-red{
+    background-color: rgb(255 47 72) ;
+    color: white;
+  }
+.py-5 {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+}
+.main-heading {
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 14px;
+}
+.underline {
+    height: 4px;
+    width: 88px;
+    background-color: rgb(255 47 72);
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+.bg-gray{
+    background-color:rgb(255 47 72);
+}
+.box-card{
+    background-color: rgb(255 47 72);
+    box-shadow: 2px 8px 16px 2px rgb(0 0 0 / 30%);
+    margin-bottom: 20px;
+    border: 2px solid #ddd;
+}
+.box-card:hover {
+    transform: scale(1.05); /* Phóng to khi hover */
+  }
+.box-card .box-card-body{
+    padding: 28px 28px;
+
+}
+.box-card .box-card-body .box-card-heading{
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.box-card .box-card-body p {
+    font-size: 14px;
+    font-weight: 400;
+    color:white;
+}
+.custom-hr {
+    border: none;
+    border-top: 1px solid white; /* Màu và độ dày của đường kẻ */
+    margin-top: 1.5rem; /* Khoảng cách phía trên đường kẻ */
+    margin-bottom: 3rem; /* Khoảng cách phía dưới đường kẻ */
+}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 1rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  .btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    color: #fff;
+    background-color: #0056b3;
+    border-color: #004085;
+  }

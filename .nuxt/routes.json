@@ -1,0 +1,44 @@
+[
+  {
+    "name": "buy_now",
+    "path": "/buy_now",
+    "component": "G:\\\\Nuxtjs\\\\SimOnl\\\\pages\\\\buy_now.vue",
+    "chunkName": "pages/buy_now"
+  },
+  {
+    "name": "donmua",
+    "path": "/donmua",
+    "component": "G:\\\\Nuxtjs\\\\SimOnl\\\\pages\\\\donmua.vue",
+    "chunkName": "pages/donmua"
+  },
+  {
+    "name": "giohang",
+    "path": "/giohang",
+    "component": "G:\\\\Nuxtjs\\\\SimOnl\\\\pages\\\\giohang.vue",
+    "chunkName": "pages/giohang"
+  },
+  {
+    "name": "simdata",
+    "path": "/simdata",
+    "component": "G:\\\\Nuxtjs\\\\SimOnl\\\\pages\\\\simdata.vue",
+    "chunkName": "pages/simdata"
+  },
+  {
+    "name": "simsodep",
+    "path": "/simsodep",
+    "component": "G:\\\\Nuxtjs\\\\SimOnl\\\\pages\\\\simsodep.vue",
+    "chunkName": "pages/simsodep"
+  },
+  {
+    "name": "support",
+    "path": "/support",
+    "component": "G:\\\\Nuxtjs\\\\SimOnl\\\\pages\\\\support.vue",
+    "chunkName": "pages/support"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "G:\\\\Nuxtjs\\\\SimOnl\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
